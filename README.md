@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi I am airhang 🍔
 
+
+- 🔭 I’m currently working on Dulu
+- 🌱 I’m currently learning TS/Rust
+- 📫 How to reach me: 微信公众号搜索: `部落单元阁`
+- ⚡ keep on
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=airhang-cloud&show_icons=true&theme=radical)
 <!--
 **airhang-cloud/airhang-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
