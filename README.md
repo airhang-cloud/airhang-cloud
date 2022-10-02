@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning TS/Rust
 - 📫 How to reach me: 微信公众号搜索: `部落单元阁`
 - ⚡ keep on
-
+- ⚡ Productions: 微信小程序搜索: `什么来吃`,帮你解决日常吃什么的纠结症
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=airhang-cloud&show_icons=true&theme=radical)
 <!--
 **airhang-cloud/airhang-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
